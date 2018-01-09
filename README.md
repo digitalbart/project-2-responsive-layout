@@ -1,4 +1,4 @@
-# project-2-responsive-layout
+# Project 2 Responsive Layout
 
 - simple single page portfolio exercise for team treehouse
 - built using mockups provided as pngs
