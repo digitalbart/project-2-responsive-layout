@@ -2,12 +2,13 @@
 
 - simple single page portfolio exercise for team treehouse
 - built using mockups provided as pngs
+- used mobile first approach of site building
 
-# mobile
-![mobile](https://raw.githubusercontent.com/digitalbart/project-2-responsive-layout/master/mockups/responsive-website_mobile320.png)
+# Desktop
+![Desktop](https://raw.githubusercontent.com/digitalbart/project-2-responsive-layout/master/mockups/responsive-website_desktop1024.png)
 
-# tablet
+# Tablet
 ![mobile](https://raw.githubusercontent.com/digitalbart/project-2-responsive-layout/master/mockups/responsive-website_tablet768.png)
 
-# desktop
-![Desktop](https://raw.githubusercontent.com/digitalbart/project-2-responsive-layout/master/mockups/responsive-website_desktop1024.png)
+# Mobile
+![mobile](https://raw.githubusercontent.com/digitalbart/project-2-responsive-layout/master/mockups/responsive-website_mobile320.png)
